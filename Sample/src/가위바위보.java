@@ -1,7 +1,7 @@
 
 public class 가위바위보 {
 	public static void main(String[] args) {
-		// 난수 Random
+		// 난수 Random 
 		// 0.0 <= X < 1.0
 		// 가위 0, 바위 1, 보 2
 		double ran = Math.random();
